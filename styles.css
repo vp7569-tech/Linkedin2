@@ -1,0 +1,136 @@
+.supermain{
+
+  background-color: #E5E3C9;
+}
+.container-fluid{
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.first-nav{
+  padding-right: 200px;
+  padding-left: 200px;
+}
+.img-css{
+  width: 900px;
+  height: 150px;
+
+
+}
+.img1-css{
+
+    width: 120px;
+margin-left: 30px;
+margin-top:-5%;
+}
+.text-inside{
+  margin-left: 30px;
+
+}
+.main{
+  height:500vh;
+  width:900px;
+  background-color: #F9F9F9;
+  margin-left: 200px;
+
+}
+
+
+.search-field{
+  position: relative;
+}
+
+.search-icon {
+   position: absolute;
+   left: 10px;
+   margin: 10px auto 5px;
+
+}
+.search-obj{
+  padding:10px;
+}
+.besttext{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+.newtext{
+  font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Noto Sans', sans-serif;
+font-family: 'Open Sans', sans-serif;
+
+}
+li.nav-item a{
+display: flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+margin:0 1rem;
+
+}
+.best-button{
+
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-radius: 15px;
+  background: #1F4690;
+  color:#FCF8E8;
+
+}
+.second-button{
+  margin-left: 5px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-radius: 15px;
+  background-color:#F9F5EB;
+  color: #1F4690;
+  border: solid #1F4690 2px;;
+}
+.third-btn{
+  margin-left: 5px;
+
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-radius: 15px;
+  background-color:#F9F5EB;
+  color: black;
+  border: solid black 2px;;
+}
+.row .card444{
+  padding-left: 0;
+  padding-right: 0;
+}
+.third-btn:hover{
+  background:#CEE5D0;
+
+}
+.second-button:hover{
+  background:#CEE5D0;
+
+}
+.imgname .card-img-top{
+  height:90px;
+  width:70px;
+  margin-left: 90px;
+  margin-top: 10px;
+}
+body{
+  background-color: #F9F5EB;
+}
+.imgname .buttonname{
+  border-radius: 15px;
+  background-color: #1F4690;
+}
+h3{
+  padding-top: 20px;
+}
+/* .container .row .card333{
+  padding:30px;
+} */
